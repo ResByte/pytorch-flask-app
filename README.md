@@ -1,5 +1,8 @@
 # pytorch-flask-app
-Simple app to provide inference with web interface
+Simple app to provide inference with web interface, it will look like
+![image](snapshot.png)
+
+
 
 ## Todo:
 - [x] create flask backend with pytorch prediction
