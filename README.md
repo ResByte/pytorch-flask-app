@@ -31,6 +31,6 @@ FLASK_ENV=development FLASK_APP=app.py flask run
 
 ## References :
 This app is used for learning purpose and therefore some of the  resources are from : 
-- [Pytorch Flask App Tutorial](https://www.notion.so/Deploying-ML-Model-933b6a8ec085418199d57aeebe57069d#10ae8952f7014e64829d5c61494e1bbe)
-- [HeartFitz guide to Model development](https://www.notion.so/Deploying-ML-Model-933b6a8ec085418199d57aeebe57069d#9544e65932cf4f27b2e048997768cda3)
-- [Style CSS background](https://www.notion.so/Deploying-ML-Model-933b6a8ec085418199d57aeebe57069d#3dbf362133254fc180fa78517f161ac3)
+- [Pytorch Flask App Tutorial](https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html)
+- [HeartFitz guide to Model development](https://heartbeat.fritz.ai/brilliant-beginners-guide-to-model-deployment-133e158f6717)
+- [Style CSS background](https://medium.com/@luclemo/styling-background-images-with-css-d9f44cb10a32)
